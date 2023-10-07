@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../02-Fundamentals-Part-2"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.multiRootWorkspaceName": "05-Guess-My-Number"
+  }
+}
